@@ -37,4 +37,4 @@ VEGA Network оставляет за собой право изменять ил
 
 Настоящее Соглашение вступает в силу с даты, указанной выше.
 
-Лицензия: [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://github.com/GIST-CSBL/DeepConv-DTI/blob/master/CC-BY-NC-SA-4.0)
+Лицензия: [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://github.com/vovamod/VEGA/blob/main/LICENSE)
